@@ -1,13 +1,14 @@
-baseurl: /starter
+baseurl: /utrecht
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: utrecht
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeUtrecht
+  twitter: MaptimeUtrecht
   #disqus: YOUR DISQUS USERNAME
 
+future: true
 gems:
   - jekyll-feed
