@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Hello world
+title: Hello Maptime! 
 ---
 
-Replace this post with an introduction to your MapTime meetup! Posts
-are written in [Markdown](https://guides.github.com/features/mastering-markdown/).
+Maptime Utrecht 030 is hosted by [Webmapper](www.webmapper.nl). 
